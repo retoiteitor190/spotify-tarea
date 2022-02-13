@@ -4,8 +4,8 @@ import Cookies from "universal-cookie";
 import { Buffer } from "buffer";
 const cookies = new Cookies();
 
-const CLIENT_ID = process.env.REACT_APP_SPOTIFY_CLIENT_ID;
-const SECRET_ID = process.env.REACT_APP_SPOTIFY_SECRET_ID;
+//const CLIENT_ID = process.env.REACT_APP_SPOTIFY_CLIENT_ID;
+//const SECRET_ID = process.env.REACT_APP_SPOTIFY_SECRET_ID;
 const AUTH_TOKEN = Buffer(`${"e04152f439094e2eb8d9b0d40e470587"}:${"4e0ba674a8bb4241976f5aa960815750"}`, "utf-8").toString(
     "base64"
 );
