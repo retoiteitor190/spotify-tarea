@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url("https://img.blogs.es/anexom/wp-content/uploads/2021/09/que-es-spotify.jpg");
+  background-size: cover;
+  background-repeat: none;
+  min-height: 100vh;  
+  display: flex;
 }
 
 .App-logo {
