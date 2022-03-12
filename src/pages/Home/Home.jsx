@@ -66,7 +66,7 @@ function Home() {
                 </FormControl>
             </Grid>
             <Grid item xs={6}>
-                <Button variant="contained" href="https://github.com/retoiteitor190/spotify-tarea.git" color="success">GitHub alejandro Ruiz Moreno</Button>
+            <Button variant="contained" href="https://github.com/retoiteitor190/spotify_recuperacion.git" color="success"> GitHub recuperación alejandro</Button>
                 <Button variant="contained" onClick={search}>
                     Search
                 </Button>
